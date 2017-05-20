@@ -1,0 +1,8 @@
+[package]
+name = "wsgi-server"
+version = "0.1.0"
+authors = ["nakamuray"]
+
+[dependencies]
+cpython = "0.1"
+hyper = "0.10"
